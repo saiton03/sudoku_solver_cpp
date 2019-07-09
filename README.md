@@ -12,4 +12,4 @@
 
 ### sudokusaiki2.cpp
 
-goto文などを多用しJMP命令ぽくしています．
+goto文を使ってJMP命令ぽくするなどしています．mainでfor文を使っていません．
